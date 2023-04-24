@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&family=Montserrat:ital,wght@0,600;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@900&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+.inputsection {
+  background-color: blanchedalmond;
+  width: 10rem;
+  background-color: #503825;
+}
+#root {
+  width: 100%;
+}
+.head {
+  width: 100%;
+  position: fixed;
+  top: 10px;
+  right: 20px;
+  font-size: 3rem;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0.5em;
+  margin-left: 0;
+}
+#logo {
+  font-family: "Cairo", sans-serif;
+}
